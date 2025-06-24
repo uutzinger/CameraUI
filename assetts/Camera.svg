@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Camera.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.3994184"
+     inkscape:cx="134.22229"
+     inkscape:cy="169.11326"
+     inkscape:window-width="2560"
+     inkscape:window-height="1334"
+     inkscape:window-x="2869"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path928" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect846"
+       width="29.380259"
+       height="29.380257"
+       x="18.0109"
+       y="21.242861"
+       inkscape:export-filename="C:\Users\uutzi\Documents\GitHub\Python Playground\Camera_GUI\camera_gui\images\camera_48.png"
+       inkscape:export-xdpi="48.699448"
+       inkscape:export-ydpi="48.699448" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="path1434"
+       cx="32.701031"
+       cy="34.345486"
+       r="8"
+       inkscape:export-filename="C:\Users\uutzi\Documents\GitHub\Python Playground\Camera_GUI\camera_gui\images\camera_48.png"
+       inkscape:export-xdpi="48.699448"
+       inkscape:export-ydpi="48.699448" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect1538"
+       width="3"
+       height="3"
+       x="41.079895"
+       y="24.154638"
+       inkscape:export-filename="C:\Users\uutzi\Documents\GitHub\Python Playground\Camera_GUI\camera_gui\images\camera_48.png"
+       inkscape:export-xdpi="48.699448"
+       inkscape:export-ydpi="48.699448" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.227152px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 16.457932,47.965368 h 0.899831 l 0.01856,-4.095611 h 0.431363 v 4.095611 h 1.349747 v -4.095611 l 0.449916,-0.01549 -0.0116,4.111098 h 1.361343 v -4.076266 h 0.449916 l -0.01276,4.076266 h 1.379607 l -0.01711,-4.076266 h 0.432812 l 0.03421,4.076266 h 1.332644 v -4.095611 h 0.449916 v 4.095611 l 2.249579,0.01741"
+       id="path5170"
+       sodipodi:nodetypes="cccccccccccccccccccccc"
+       inkscape:export-filename="C:\Users\uutzi\Documents\GitHub\Python Playground\Camera_GUI\camera_gui\images\camera_48.png"
+       inkscape:export-xdpi="48.699448"
+       inkscape:export-ydpi="48.699448" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.227152px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 27.041272,47.965368 h 0.899831 l 0.01856,-4.095611 h 0.431363 v 4.095611 h 1.349747 v -4.095611 l 0.449916,-0.01549 -0.0116,4.111098 h 1.361343 v -4.076266 h 0.449916 l -0.01276,4.076266 h 1.379607 l -0.01711,-4.076266 h 0.432812 l 0.03421,4.076266 h 1.332644 v -4.095611 h 0.449916 v 4.095611 l 2.249579,0.01741"
+       id="path12674"
+       sodipodi:nodetypes="cccccccccccccccccccccc"
+       inkscape:export-filename="C:\Users\uutzi\Documents\GitHub\Python Playground\Camera_GUI\camera_gui\images\camera_48.png"
+       inkscape:export-xdpi="48.699448"
+       inkscape:export-ydpi="48.699448" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.227152px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 37.624612,47.965368 h 0.899831 l 0.01856,-4.095611 h 0.431363 v 4.095611 h 1.349747 v -4.095611 l 0.449916,-0.01549 -0.0116,4.111098 h 1.361343 v -4.076266 h 0.449916 l -0.01276,4.076266 h 1.379607 l -0.01711,-4.076266 h 0.432812 l 0.03421,4.076266 h 1.332644 v -4.095611 h 0.449916 v 4.095611 l 2.249579,0.01741"
+       id="path12676"
+       sodipodi:nodetypes="cccccccccccccccccccccc"
+       inkscape:export-filename="C:\Users\uutzi\Documents\GitHub\Python Playground\Camera_GUI\camera_gui\images\camera_48.png"
+       inkscape:export-xdpi="48.699448"
+       inkscape:export-ydpi="48.699448" />
+    <g
+       id="g12764"
+       inkscape:export-filename="C:\Users\uutzi\Documents\GitHub\Python Playground\Camera_GUI\camera_gui\images\camera_48.png"
+       inkscape:export-xdpi="48.699448"
+       inkscape:export-ydpi="48.699448">
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="circle12758"
+         cx="32.701031"
+         cy="40.166325"
+         rx="0.88888884"
+         ry="0.8888889" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="ellipse12760"
+         cx="32.701031"
+         cy="28.524647"
+         rx="0.88888884"
+         ry="0.8888889" />
+    </g>
+    <g
+       id="g12770"
+       transform="rotate(-20,32.701031,34.345486)"
+       inkscape:export-filename="C:\Users\uutzi\Documents\GitHub\Python Playground\Camera_GUI\camera_gui\images\camera_48.png"
+       inkscape:export-xdpi="48.699448"
+       inkscape:export-ydpi="48.699448">
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="ellipse12766"
+         cx="32.701031"
+         cy="40.166325"
+         rx="0.88888884"
+         ry="0.8888889" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="ellipse12768"
+         cx="32.701031"
+         cy="28.524647"
+         rx="0.88888884"
+         ry="0.8888889" />
+    </g>
+    <g
+       id="g12776"
+       transform="rotate(-40,32.701031,34.345486)"
+       inkscape:export-filename="C:\Users\uutzi\Documents\GitHub\Python Playground\Camera_GUI\camera_gui\images\camera_48.png"
+       inkscape:export-xdpi="48.699448"
+       inkscape:export-ydpi="48.699448">
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="ellipse12772"
+         cx="32.701031"
+         cy="40.166325"
+         rx="0.88888884"
+         ry="0.8888889" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="ellipse12774"
+         cx="32.701031"
+         cy="28.524647"
+         rx="0.88888884"
+         ry="0.8888889" />
+    </g>
+    <g
+       id="g12782"
+       transform="rotate(-60,32.701031,34.345486)"
+       inkscape:export-filename="C:\Users\uutzi\Documents\GitHub\Python Playground\Camera_GUI\camera_gui\images\camera_48.png"
+       inkscape:export-xdpi="48.699448"
+       inkscape:export-ydpi="48.699448">
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="ellipse12778"
+         cx="32.701031"
+         cy="40.166325"
+         rx="0.88888884"
+         ry="0.8888889" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="ellipse12780"
+         cx="32.701031"
+         cy="28.524647"
+         rx="0.88888884"
+         ry="0.8888889" />
+    </g>
+    <g
+       id="g12788"
+       transform="rotate(-80,32.701031,34.345486)"
+       inkscape:export-filename="C:\Users\uutzi\Documents\GitHub\Python Playground\Camera_GUI\camera_gui\images\camera_48.png"
+       inkscape:export-xdpi="48.699448"
+       inkscape:export-ydpi="48.699448">
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="ellipse12784"
+         cx="32.701031"
+         cy="40.166325"
+         rx="0.88888884"
+         ry="0.8888889" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="ellipse12786"
+         cx="32.701031"
+         cy="28.524647"
+         rx="0.88888884"
+         ry="0.8888889" />
+    </g>
+    <g
+       id="g12794"
+       transform="rotate(-100,32.701031,34.345486)"
+       inkscape:export-filename="C:\Users\uutzi\Documents\GitHub\Python Playground\Camera_GUI\camera_gui\images\camera_48.png"
+       inkscape:export-xdpi="48.699448"
+       inkscape:export-ydpi="48.699448">
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="ellipse12790"
+         cx="32.701031"
+         cy="40.166325"
+         rx="0.88888884"
+         ry="0.8888889" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="ellipse12792"
+         cx="32.701031"
+         cy="28.524647"
+         rx="0.88888884"
+         ry="0.8888889" />
+    </g>
+    <g
+       id="g12800"
+       transform="rotate(-120,32.701031,34.345486)"
+       inkscape:export-filename="C:\Users\uutzi\Documents\GitHub\Python Playground\Camera_GUI\camera_gui\images\camera_48.png"
+       inkscape:export-xdpi="48.699448"
+       inkscape:export-ydpi="48.699448">
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="ellipse12796"
+         cx="32.701031"
+         cy="40.166325"
+         rx="0.88888884"
+         ry="0.8888889" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="ellipse12798"
+         cx="32.701031"
+         cy="28.524647"
+         rx="0.88888884"
+         ry="0.8888889" />
+    </g>
+    <g
+       id="g12806"
+       transform="rotate(-140,32.701031,34.345486)"
+       inkscape:export-filename="C:\Users\uutzi\Documents\GitHub\Python Playground\Camera_GUI\camera_gui\images\camera_48.png"
+       inkscape:export-xdpi="48.699448"
+       inkscape:export-ydpi="48.699448">
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="ellipse12802"
+         cx="32.701031"
+         cy="40.166325"
+         rx="0.88888884"
+         ry="0.8888889" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="ellipse12804"
+         cx="32.701031"
+         cy="28.524647"
+         rx="0.88888884"
+         ry="0.8888889" />
+    </g>
+    <g
+       id="g12812"
+       transform="rotate(-160,32.701031,34.345486)"
+       inkscape:export-filename="C:\Users\uutzi\Documents\GitHub\Python Playground\Camera_GUI\camera_gui\images\camera_48.png"
+       inkscape:export-xdpi="48.699448"
+       inkscape:export-ydpi="48.699448">
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="ellipse12808"
+         cx="32.701031"
+         cy="40.166325"
+         rx="0.88888884"
+         ry="0.8888889" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="ellipse12810"
+         cx="32.701031"
+         cy="28.524647"
+         rx="0.88888884"
+         ry="0.8888889" />
+    </g>
+  </g>
+</svg>
