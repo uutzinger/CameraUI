@@ -1,8 +1,10 @@
 # Multi Spectral Camera
 
-User Interface to control Camera and Device attached to Serial Port.
+User Interface to control Camera and a device attached to the Serial Port.
 Blackfly as well as OpenCV supported cameras.
-Lightsource is typically connected to serial interface
+Basler Cameras will be added once USB and Blackfly work.
+
+A Lightsource is typically connected to the serial interface. For example https://github.com/uutzinger/blackflysync/
 
 Urs Utzinger
 2022, 2023, 2025
